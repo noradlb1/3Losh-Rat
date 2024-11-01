@@ -1,0 +1,4 @@
+C:\Users\MONSTERMC\Downloads\AsyncRAT SRC\AsyncRAT\obj\Debug\AsyncRAT.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\AsyncRAT SRC\AsyncRAT\obj\Debug\Server.Form1.resources
+C:\Users\MONSTERMC\Downloads\AsyncRAT SRC\AsyncRAT\obj\Debug\AsyncRAT.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\AsyncRAT SRC\AsyncRAT\obj\Debug\AsyncRAT.csproj.CoreCompileInputs.cache

